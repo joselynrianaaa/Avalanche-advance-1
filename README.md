@@ -34,9 +34,7 @@ Shut down your local deployment with:
 ```bash
 avalanche network stop
 ```
-## Authors
 
-Akshay B 9999akbr@gmail.com
 
 ## License
 
